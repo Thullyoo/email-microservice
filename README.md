@@ -1,4 +1,4 @@
-# Api MicroService de envio de email de conclusao de cadastro de Usuário (Java 🚀 com Spring Boot 🍃, RabbitMQ 🐇 e Postgres 🐘)
+# Api MicroService de envio de email de conclusão de cadastro de Usuário (Java 🚀 com Spring Boot 🍃, RabbitMQ 🐇 e Postgres 🐘)
 
 **Utilizando CloudAMQP para RabbitMQ**
 
